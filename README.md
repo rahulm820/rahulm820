@@ -42,15 +42,15 @@
 
 ## 🏗️ Featured Projects
 
-### **[FIFA Rapid Agent 2026](https://rahulm820.github.io/Portfolio/) — AI Football Companion App**
+### **[FIFA Rapid Agent 2026](https://github.com/rahulm820/GRAHFifa) — AI Football Companion App**
 * **Tech:** React Native (Expo), Firebase, Google ADK, Gemini 2.0 Flash, FastAPI, Python.
 * **Architecture:** Designed a multi-agent AI backend orchestrating live match data with screen-context injection and dynamic live score capsules.
 
-### **[SmartLedger](https://rahulm820.github.io/Portfolio/) — Voice-Driven Billing Assistant**
+### **[SmartLedger](https://github.com/rahulm820/VoiceBillingApp) — Voice-Driven Billing Assistant**
 * **Tech:** React Native, Appwrite, Speech-to-Text, Whisper.
 * **UX:** Secured with JWT-based authentication and enables completely spoken commands for stock and bill management for retailers.
 
-### **[NarratorApp](https://rahulm820.github.io/Portfolio/) — ML Vision for Visually Impaired**
+### **[NarratorApp](https://github.com/rahulm820/Narrator-App) — ML Vision for Visually Impaired**
 * **Tech:** Kotlin, Android, CameraX, TensorFlow Lite, Google ML Kit, TTS.
 * **Performance:** Leveraged on-device ML for real-time object detection and contextual description generation.
 
