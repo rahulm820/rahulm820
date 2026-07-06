@@ -20,10 +20,10 @@
   <a href="https://codeforces.com/profile/rahulmadhawani2004"><img src="https://img.shields.io/badge/Codeforces-rahulmadhawani2004-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohitjeswani01&label=Profile%20Views&color=6E48AA&style=flat" alt="Profile Views" />
   <a href="https://github.com/rahulm820?tab=followers"><img src="https://img.shields.io/github/followers/rahulm820?label=Followers&style=flat&color=0A66C2" alt="Followers" /></a>
-</p>
+</p> -->
 
 ---
 
@@ -103,10 +103,10 @@ const rahul = {
 - **Tech:** React Native, Appwrite, Speech-to-Text, Whisper, JWT Auth.
 - **UX:** Fully voice-controlled billing & inventory flow, secured with JWT-based authentication.
 
-<!-- <p align="center">
+<p align="center">
   <a href="https://github.com/rahulm820/Narrator-App"><img src="https://img.shields.io/badge/More%20%E2%86%92-NarratorApp%20(ML%20Vision%20for%20the%20Visually%20Impaired)-6E48AA?style=for-the-badge" alt="NarratorApp" /></a>
   <a href="https://github.com/rahulm820/Resume-Screening-Application"><img src="https://img.shields.io/badge/More%20%E2%86%92-Resume%20Screening%20(Microservices)-009688?style=for-the-badge" alt="Resume Screening" /></a>
-</p> -->
+</p>
 
 ---
 
