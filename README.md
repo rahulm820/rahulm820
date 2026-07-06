@@ -3,12 +3,12 @@
 <a href="https://rahulm820.github.io/Portfolio/">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:6E48AA,100:009688&height=200&section=header&text=Rahul%20Madhawani&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20AI/ML%20Systems&descSize=18&descAlignY=60" alt="Rahul Madhawani" />
 </a>
-
+<!-- 
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=009688&center=true&vCenter=true&width=650&lines=Building+scalable+backend+systems;Orchestrating+multi-agent+AI+applications;Engineering+real-time+architectures;Actively+seeking+SWE+opportunities+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
-</p>
+</p> -->
 
 <!-- ═══════════════════════════════════ SOCIALS ═══════════════════════════════════ -->
 
