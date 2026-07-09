@@ -3,8 +3,8 @@
 <a href="https://rahulm820.github.io/Portfolio/">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:6E48AA,100:009688&height=200&section=header&text=Rahul%20Madhawani&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20AI/ML%20Systems&descSize=18&descAlignY=60" alt="Rahul Madhawani" />
 </a>
-<!-- 
-<p align="center">
+
+<!-- <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=009688&center=true&vCenter=true&width=650&lines=Building+scalable+backend+systems;Orchestrating+multi-agent+AI+applications;Engineering+real-time+architectures;Actively+seeking+SWE+opportunities+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
@@ -21,24 +21,10 @@
 </p>
 
 <!-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohitjeswani01&label=Profile%20Views&color=6E48AA&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=rahulm820&label=Profile%20Views&color=6E48AA&style=flat" alt="Profile Views" />
   <a href="https://github.com/rahulm820?tab=followers"><img src="https://img.shields.io/github/followers/rahulm820?label=Followers&style=flat&color=0A66C2" alt="Followers" /></a>
 </p> -->
 
----
-
-## 🧑‍💻 About Me
-
-```typescript
-const rahul = {
-  role:        "Software Engineer & Full Stack Developer",
-  focus:       ["Scalable Backends", "AI Orchestration", "Real-Time Systems"],
-  currently:   "Building AI memory-graph platforms with Cognee & Gemini",
-  stack:       ["TypeScript", "Python", "React Native", "FastAPI", "Node.js"],
-  philosophy:  "Performant, intelligent, production-ready code.",
-  status:      "Open to Software Engineering opportunities 🚀",
-};
-```
 
 ---
 
@@ -164,3 +150,9 @@ const rahul = {
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:009688,50:6E48AA,100:0A66C2&height=100&section=footer&text=Let's%20build%20something%20intelligent%20together&fontSize=16&fontColor=ffffff&fontAlignY=75" alt="Footer" />
 </p>
+
+Keep learning !
+A sword left dull too long starts to believe it was never forged for battle.
+
+Always take your chance.
+The cave you fear to enter holds the treasure you seek.
